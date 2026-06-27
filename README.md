@@ -39,3 +39,7 @@ Runnable runnable = () -> System.out.println("Hello world two!");
 You also got method references, repeating annotations, default methods for interfaces and a few other language features.
 
 More here: [lambdas](https://github.com/helmedeiros/java-8-study/tree/master/src/main/java/com/helmedeiros/study/java8/cap1)
+
+## License
+
+[MIT](LICENSE)
